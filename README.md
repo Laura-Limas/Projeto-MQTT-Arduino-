@@ -1,5 +1,5 @@
 # Projeto MQTT Arduino
-_Objetivo do Projeto_
+*_Objetivo do Projeto_*
 
 O projeto visa monitorar o acesso ao servidor utilizando o protocolo MQTT, através do Arduino Uno.  Usando  um sensor magnético conectado ao Arduino podemos  monitorar se  a porta  do rack está aberta ou fechada. Essa informação é enviada via internet  utilizando o protocolo MQTT(Message Queuing Telemetry Transport)para um servidor MQTT hospedado na Amazon Web Service (AWS). A mensagem será exibida em um Client MQTT  atravéz do aplicativo (MQTT DASH) intalado em um smartphone.
 
